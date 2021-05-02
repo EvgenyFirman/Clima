@@ -1,7 +1,5 @@
 //
 //  WeatherAPIBrain.swift
-//  Clima
-//
 //  Created by Евгений Фирман on 28.04.2021.
 
 import UIKit
